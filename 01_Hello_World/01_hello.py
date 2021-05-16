@@ -1,0 +1,5 @@
+print("Hello World")
+print("\nDo You Like this Python List?")
+print("\nShare It !!!!!!")
+print("\nWith your All Friends.......")
+print("\nThankyou")
