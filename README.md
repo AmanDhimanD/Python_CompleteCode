@@ -16,3 +16,9 @@
   - [Type](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/02_Data_Type/06_Type.py)
   - [Boolean](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/02_Data_Type/07_Boolean.py)
   
+* Strings
+  - [String](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/03_Strings/01_String.py)
+  - [Slicing](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/03_Strings/02_Slicing.py)
+  - [String Functions](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/03_Strings/03_String_function.py)
+  - [Some More Methods](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/03_Strings/Other_Methods.txt)
+ 
