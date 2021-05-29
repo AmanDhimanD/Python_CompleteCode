@@ -22,3 +22,13 @@
   - [String Functions](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/03_Strings/03_String_function.py)
   - [Some More Methods (Text-File)](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/03_Strings/Other_Methods.txt)
  
+* Lists
+  - [List](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/01_List.py)
+  - [Append and Insert](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/02_Add_into_List.py)
+  - [Pop](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/03_Remove_From_list.py)
+  - [Deleting](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/04_Deleting_List.py)
+  - [Sorting](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/05_Sorting.py)
+  - [Append and Insert](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/02_Add_into_List.py)
+  - [Pop](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/03_Remove_From_list.py)
+  - [Deleting](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/04_Deleting_List.py)
+ 
