@@ -31,3 +31,12 @@
   - [Copying List](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/06_Copy_List.py)
   - [Some More Methods (Text-File)](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/Methods)
  
+  
+* Tuple
+  - [Tuple](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/05_Tuples/01_Tuples.py)
+  - [Changes In Tuple](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/05_Tuples/02_Changes_in_tuples.py)
+  - [Pop](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/03_Remove_From_list.py)
+  - [Deleting](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/04_Deleting_List.py)
+  - [Sorting](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/05_Sorting.py)
+  - [Copying List](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/06_Copy_List.py)
+  - [Some More Methods (Text-File)](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/Methods)
