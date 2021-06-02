@@ -39,3 +39,12 @@
   - [Useing Asteridk](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/05_Tuples/04_Using_Asterisk.py)
   - [Access](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/05_Tuples/05_Acess_by_Loop.py)
   - [Methods](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/05_Tuples/05_Method.py)
+
+* Dictionary and Sets
+  - [Dictionary](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/06_Dictionary_%26_Sets/01_Dictionary.py)
+  - [Append and Insert](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/02_Add_into_List.py)
+  - [Pop](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/03_Remove_From_list.py)
+  - [Deleting](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/04_Deleting_List.py)
+  - [Sorting](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/05_Sorting.py)
+  - [Copying List](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/06_Copy_List.py)
+  - [Some More Methods (Text-File)](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/Methods)
