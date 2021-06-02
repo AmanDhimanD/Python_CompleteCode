@@ -45,6 +45,4 @@
   - [Methods of Dictionary](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/06_Dictionary_%26_Sets/02_Method_OF_Dictionary.py)
   - [Sets](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/06_Dictionary_%26_Sets/03_Sets.py)
   - [Union and Intersection](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/06_Dictionary_%26_Sets/04_Other_Methods_of_sets.py)
-  - [Sorting](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/05_Sorting.py)
-  - [Copying List](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/06_Copy_List.py)
-  - [Some More Methods (Text-File)](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/04_List/Methods)
+  - [Some More Methods (Text-File)](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/06_Dictionary_%26_Sets/Methods_of_Sets.txt)
