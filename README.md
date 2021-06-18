@@ -47,7 +47,7 @@
   - [Union and Intersection](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/06_Dictionary_%26_Sets/04_Other_Methods_of_sets.py)
   - [Some More Methods (Text-File)](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/06_Dictionary_%26_Sets/Methods_of_Sets.txt)
  
- * Conditional Expressions
+* Conditional Expressions
   - [If Else](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/07_Conditional%20Expressions/01_if_else.py)
   - [If Else Elif](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/07_Conditional%20Expressions/02_if_else_elif.py)
   - [Short Hand](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/07_Conditional%20Expressions/03_Short_hand.py)
