@@ -51,3 +51,9 @@
   - [If Else](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/07_Conditional%20Expressions/01_if_else.py)
   - [If Else Elif](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/07_Conditional%20Expressions/02_if_else_elif.py)
   - [Short Hand](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/07_Conditional%20Expressions/03_Short_hand.py)
+ 
+* Loops
+  - [Loops](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/08_Loops/01_Loops.py)
+  - [For Loops](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/08_Loops/02_For_loops.py)
+  - [Star Pattren](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/08_Loops/03_Star_Pattren.py)
+  - [Tables](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/08_Loops/04_tables.py)
