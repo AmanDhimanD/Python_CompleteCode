@@ -57,3 +57,5 @@
   - [For Loops](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/08_Loops/02_For_loops.py)
   - [Star Pattren](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/08_Loops/03_Star_Pattren.py)
   - [Tables](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/08_Loops/04_tables.py)
+
+#### Python 3
