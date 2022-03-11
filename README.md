@@ -36,7 +36,7 @@
   - [Tuple](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/05_Tuples/01_Tuples.py)
   - [Changes In Tuple](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/05_Tuples/02_Changes_in_tuples.py)
   - [Unpacking](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/05_Tuples/03_Unpacking.py)
-  - [Useing Asteridk](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/05_Tuples/04_Using_Asterisk.py)
+  - [Using Asteridk](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/05_Tuples/04_Using_Asterisk.py)
   - [Access](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/05_Tuples/05_Acess_by_Loop.py)
   - [Methods](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/05_Tuples/05_Method.py)
 
