@@ -59,5 +59,5 @@
   - [Tables](https://github.com/AmanDhimanD/Python_CompleteCode/blob/main/08_Loops/04_tables.py)
 
 #### Python 3
-##### version update with indexs 
+##### Latest Version update with indexs 
 ###### https://github.com/AmanDhimanD/Python_CompleteCode
