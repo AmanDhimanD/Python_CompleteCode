@@ -1,5 +1,9 @@
 # Tkinter Projects 
 
+## Technology Used : 
+- Python 
+- Mysql 
+
 ## ToDo Adder - RayneCoder
 - Add the tasks
 - Delete the Tasks
